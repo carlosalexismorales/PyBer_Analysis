@@ -26,10 +26,10 @@ The purpose of this project is to perform exploratory data analysis of Pyber's r
   - ride_data.csv
  
  - Software:
-  - Python 3.10.5
-  - Conda 4.13.0
-  - Jupyter Notebook 6.4.11
-  - Pandas 1.4.2
+   - Python 3.10.5
+   - Conda 4.13.0
+   - Jupyter Notebook 6.4.11
+   - Pandas 1.4.2
 
 ## Results 
 
