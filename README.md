@@ -39,3 +39,13 @@ As shown in the image below, it appears that riders in suburban areas pay on ave
 <img width="593" alt="Screen Shot 2022-06-29 at 4 14 56 PM" src="https://user-images.githubusercontent.com/102444078/176561161-9b5f4a8f-dcd1-43fd-aa40-c1c674e1df61.png">
 
 
+
+As shown in the multiple-line graph image below, we can see trends of total fares in rural, suburban, and urban cities between January 2019 and April 2019. This supports the PyBer Summary DataFrame because it shows how the urban areas had the highest total fare, ranging around $1,600 to $2,300, within the months of January to April 2019. We also see that this was followed by the second-highest total fare, which were urban areas, that had fares ranging from about $750 to $1,400, in the same amount of time. The lowest total was represented by the rural areas: theirs hovered around $300 all throughout the same time period. These low fares can be attributed to the empty cells observed in the rural cities column after arranging the data into the specified date range using the loc function. Ultimately, the drop in the number of ride usage in the rural cities within the months of January to April, 2019 could be due to the low number of available rides and drivers, therefore, by providing more resources, such as more affordable and cheaper rides and an abundant amount of drivers, this can subsequently bring in more revenue while also making it more accessible to more consumers.
+
+
+
+<img width="906" alt="Screen Shot 2022-06-29 at 8 47 32 PM" src="https://user-images.githubusercontent.com/102444078/176588540-b533d561-2287-4022-b73f-56e374a93be0.png">
+
+
+
+
