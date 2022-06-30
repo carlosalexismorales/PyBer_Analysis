@@ -36,7 +36,9 @@ The purpose of this project is to perform exploratory data analysis of Pyber's r
 As shown in the image below, it appears that riders in suburban areas pay on average almost $10 less for PyBer than riders in rural areas. The average fare per ride is approximately $25 in suburban areas, compared to the average fare per ride of $35 in rural areas. The average fare per ride for Suburban areas lands between the previous two at around $31. While this is an indication that rides in rural areas are more costly than elsewhere, we would need more data to interpret as to why this may occur. One piece of data that does give some context to this obversation is the average fare per driver. In rural areas, we see that this particular area has the highest average of fare per driver at around $55. In urban areas, it is around $40 and in suburban, it is about $17. This indicates that consumers are paying more for drivers in rural areas than anywhere else. This could be because of the amount of riders that are in each of these areas. To clarify, we see that the image below illustrates that there are only 78 drivers in rural areas compared to the 2,405 drivers in urban areas. Given that there is a greater usage of PyBer in urban areas, the total fares are consequently also higher than suburban and rural areas. PyBer transactions in urban areas totaled nearly $40,000 whereas transactions in urban areas and rural areas totaled at least $19,000 and $4,000, respectively. This is a major difference that can provide context as to why there aren't as many rides or drivers in rural areas. Again, this can be due to the density of the population and destination locations in those areas, with locations usually being farther in rural/countryside areas than urban or suburban ones, but we would need more data to have a deeper understanding of this. 
 
 
+
 <img width="593" alt="Screen Shot 2022-06-29 at 4 14 56 PM" src="https://user-images.githubusercontent.com/102444078/176561161-9b5f4a8f-dcd1-43fd-aa40-c1c674e1df61.png">
+
 
 
 
@@ -48,4 +50,10 @@ As shown in the multiple-line graph image below, we can see trends of total fare
 
 
 
+## Summary
 
+Now that we have a better understanding of the ride-sharing data, we can summarize three business recommendations to address the disparities among the city types.
+
+1. We can take a look at more data: specficially the demographic and geographic data pertaining to each of the city types. We can specify which information we want to analyze, such as the population and age range within the demographic data and the average travel distance and popular landmarks within the geographic data. For example, we can group the rides by age and city and see which type of riders average more rides than other groups. This information can be analyzed and provide a better picture as to any disparity.
+2. We can analyze previous data: specifically looking back at other years than 2019. The data was that analyzed in this assignment only look at a select number of months - from January to April. This can bring false pretenses because we're only looking at a specific time, however, with data from previous months or years, we can see if there is any correlation as to what we've found out in this particular analyses and see if those same disparities appear.
+3. With the data that we have analyzed, we can address the high cost of rides in rural areas, as well as the number of drivers in these areas. Perhaps by creating an incentive to drivers to service in these areas, there could be an increase of rides in that area. This could encourage drivers to work in rural areas, potientally decreaseing the average fare of a ride for consumers, while also increasing the number of rides, ultimately, increase revenue and enhance affordability.
